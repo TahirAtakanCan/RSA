@@ -17,10 +17,9 @@ namespace RSAExample
                 if (number % i == 0)
                     return false;
             }
-
             return true;
         }
-
+// yenile 
         static Tuple<BigInteger, BigInteger> GenerateKeyPair(BigInteger p, BigInteger q)
         {
             if (!(IsPrime(p) && IsPrime(q)))
