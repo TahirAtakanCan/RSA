@@ -1,0 +1,15 @@
+/Users/tahiratakancan/Projects/RSA/RSA/obj/Debug/net7.0/RSA.csproj.AssemblyReference.cache
+/Users/tahiratakancan/Projects/RSA/RSA/obj/Debug/net7.0/RSA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tahiratakancan/Projects/RSA/RSA/obj/Debug/net7.0/RSA.AssemblyInfoInputs.cache
+/Users/tahiratakancan/Projects/RSA/RSA/obj/Debug/net7.0/RSA.AssemblyInfo.cs
+/Users/tahiratakancan/Projects/RSA/RSA/obj/Debug/net7.0/RSA.csproj.CoreCompileInputs.cache
+/Users/tahiratakancan/Projects/RSA/RSA/bin/Debug/net7.0/RSA
+/Users/tahiratakancan/Projects/RSA/RSA/bin/Debug/net7.0/RSA.deps.json
+/Users/tahiratakancan/Projects/RSA/RSA/bin/Debug/net7.0/RSA.runtimeconfig.json
+/Users/tahiratakancan/Projects/RSA/RSA/bin/Debug/net7.0/RSA.dll
+/Users/tahiratakancan/Projects/RSA/RSA/bin/Debug/net7.0/RSA.pdb
+/Users/tahiratakancan/Projects/RSA/RSA/obj/Debug/net7.0/RSA.dll
+/Users/tahiratakancan/Projects/RSA/RSA/obj/Debug/net7.0/refint/RSA.dll
+/Users/tahiratakancan/Projects/RSA/RSA/obj/Debug/net7.0/RSA.pdb
+/Users/tahiratakancan/Projects/RSA/RSA/obj/Debug/net7.0/RSA.genruntimeconfig.cache
+/Users/tahiratakancan/Projects/RSA/RSA/obj/Debug/net7.0/ref/RSA.dll
